@@ -1,0 +1,14 @@
+{
+  "resourceName": "notersa",
+  "policyUUID": "e792a925",
+  "bucketName": "s3amplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
